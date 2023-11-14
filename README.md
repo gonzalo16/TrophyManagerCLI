@@ -1,4 +1,4 @@
-<img src="https://github.com/gonzalo16/TrophyManagerCLI/blob/main/Angular_banner.jpg"></img>
+<img src="https://github.com/gonzalo16/TrophyManagerCLI/blob/main/Angular_banner.jpg" align="center"></img>
 # TrophyManagerCLI
 Este  repositorio forma parte de una aplicación UI en Angular que se llama Trophy Manager.
 
